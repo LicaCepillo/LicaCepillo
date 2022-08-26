@@ -1,7 +1,7 @@
 ### Olá, sou Lilian Lima
 
 - 🔭 Sou professora de inglês e português e estou estudando para migrar para a TI
-- 🌱 Estou estudando Sistemas de Informação e faço vários cursos paralelos, atualmente estudo Data Analysis
+- 🌱 Estudo Sistemas de Informação e faço vários cursos paralelos, atualmente estudo Data Analysis
 - 😄 Pronouns: ela/dela
 
 <div align="right">
@@ -17,7 +17,13 @@
   <img align="center" alt="imagem-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="imagem-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="imagem-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="imagem-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-          
+  <img align="center" alt="imagem-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /
                  
+</div>
+ 
+  ##
+  
+<div>
+  <a href='https://www.linkedin.com/in/lilian-lima-32537b1/' target='_blanck'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blanck'></a>
+  
 </div>
