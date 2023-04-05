@@ -1,10 +1,10 @@
 ### Olá, sou Lilian Lima
 
-- 🔭 Sou professora de inglês e português e estou estudando para migrar para a TI
-- 🌱 Estudo Sistemas de Informação e faço vários cursos paralelos, atualmente estudo:
-     -   Data Analysis pela IBM/Laboratória:
-     -   Gerenciamento de projeto - Google 
-     -   Quality Assurance - QA Academy
+- 🔭 Sou Analista de Dados e trabalho na área há 3 anos.
+- 🌱 Estudo Sistemas de Informação e faço vários cursos paralelos, atualmente faço cursos de :
+     -   Python Estatística e Ciência de Dados.
+     -   SQL avançado para análise de dados. 
+     -   Qlik Sense Certification.
     
 - 😄 Pronouns: ela/dela
 
