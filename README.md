@@ -4,7 +4,7 @@
 - 🌱 Estudo Sistemas de Informação e faço vários cursos paralelos, atualmente faço cursos de :
      -   Python Estatística e Ciência de Dados.
      -   SQL avançado para análise de dados. 
-     -   Qlik Sense Certification.
+     -   PowerBI developer.
     
 - 😄 Pronouns: ela/dela
 
